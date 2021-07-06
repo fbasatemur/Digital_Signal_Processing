@@ -1,5 +1,5 @@
 # Image Histogram & Statistics
-Grayscale (8 bits) image is read. Histogram graph, mean and variance are calculated with image values.
+Grayscale (8 bits) bitmap image is read. Histogram graph, mean and variance are calculated with image values.
 
 ### Mean & Standard Deviation
 The histogram can be used to efficiently calculate the mean and standard deviation of very large data sets. This is especially important for images, which can contain millions of samples. 
