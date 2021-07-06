@@ -17,7 +17,7 @@ Includes algorithms of Digital Signal processing.
   </li>
   <li> <b>FIR Filtering, Convolution </b>
     <ul>
-      <li><a href="https://github.com/fbasatemur/Digital_Signal_Processing/tree/main/FIR_filter"> FIR Filtering </a></li>
+      <li><a href="https://github.com/fbasatemur/Digital_Signal_Processing/tree/main/FIR_filtering"> FIR Filtering </a></li>
     </ul>
   </li>
   
